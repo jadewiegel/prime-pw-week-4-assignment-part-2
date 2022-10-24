@@ -2,3 +2,28 @@ header {
     background-color: aqua;
 }
 
+.body {
+
+}
+
+.info {
+background-color:brown;
+color:aliceblue;
+text-align: center;
+}
+
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-style: ridge;
+    border-width: thick;
+}
+
+.drive {
+    background-color:blue;
+    text-align: center;
+    color:ghostwhite;
+}
+
