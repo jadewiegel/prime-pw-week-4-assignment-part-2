@@ -3,7 +3,8 @@ header {
 }
 
 .body {
-
+    border-style: inset;
+    border-width: thick;
 }
 
 .info {
